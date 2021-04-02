@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: yuritoledo/gatsby-starter-blog
+  repo: thomaswang/gatsby-starter-blog
 
 media_folder: content/assets
 public_folder: ../assets

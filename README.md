@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0643e551-0fef-4f57-9d3c-29d576f3e06c/deploy-status)](https://app.netlify.com/sites/gatsby-personal-starter-blog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0643e551-0fef-4f57-9d3c-29d576f3e06c/deploy-status)](https://app.netlify.com/sites/gatsby-starter-blog/deploys)
 
 <img alt="screenshot" src="./screenshot.gif">
 
@@ -12,7 +12,7 @@ This is the search-enabled version of Gatsby Personal Starter Blog!
 
     ```sh
     # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/thomaswang/gatsby-personal-starter-blog
+    gatsby new my-blog-starter https://github.com/yuritoledo/gatsby-starter-blog
     ```
 
 1.  **Start developing.**
@@ -46,4 +46,4 @@ Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yuritoledoio/gatsby-starter-blog)
